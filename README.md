@@ -4,6 +4,13 @@ A unicorn company is a private company with a valuation of at least $1 billion. 
 
 ## Objective
 
+The chief goals in this project are to properly clean, prepare, and further analyze the data from different angles. Each phase will be concerned with distinct problems.
+
+- In the Data Cleaning phase: handling NULLs, duplicates, unwanted characters, and typos.
+
+- In the Data Preparation phase: creating and defining new columns, inserting values into them, and dealing with any abnormalities.
+
+- In the Data Analysis phase: exploring the dataset, understanding the distribution of values through an Univariate Analysis, comparing multiple variables through a Multivariate Analysis, and extracting the key insights.
 
 ## Tools
 
