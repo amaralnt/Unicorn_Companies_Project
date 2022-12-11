@@ -14,6 +14,12 @@ The chief goals in this project are to properly clean, prepare, and further anal
 
 ## Tools
 
+The main tool used in this project is PostgreSQL. Some of the topics covered are:
+- WHERE clause
+- GROUP BY statement & aggregate functions
+- COUNT / MIN / MAX / AVG functions
+- UPDATE statement
+- Data types overview  
 
 ## The Dataset
 
