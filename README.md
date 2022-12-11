@@ -1,4 +1,4 @@
-![uni](https://user-images.githubusercontent.com/69180967/206931733-6376b527-9a23-4c63-bc01-11b1c1d6320d.png)
+![rainbow-unicorn-1](https://user-images.githubusercontent.com/69180967/206931829-f0c3919b-ab90-4116-ae29-8e357ca1a6e6.jpg)
 
 # Unicorn Companies Project
 
