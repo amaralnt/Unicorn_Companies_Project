@@ -25,7 +25,7 @@ The main tool used in this project is PostgreSQL. Some of the topics covered are
 
 ## The Dataset
 
-The unicorn_companies dataset has 11 columns, namely:
+The unicorn_companies table has 11 columns, namely:
 
 - __id:__ A serial column, used as Primary Key.
 - __company:__ The company name.
