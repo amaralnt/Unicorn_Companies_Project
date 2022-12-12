@@ -25,5 +25,20 @@ The main tool used in this project is PostgreSQL. Some of the topics covered are
 
 ## The Dataset
 
+The unicorn_companies dataset has 11 columns, namely:
+
+- __id:__ A serial column, used as Primary Key.
+- __company:__ The company name.
+- __industry:__ The company industry.
+- __year_founded:__ The year the company was founded.
+- __city:__ The city the company was founded in.
+- __country:__ The country the company was founded in.
+- __continent:__ The continent the company was founded in.
+- __date_joined:__ The date in which the company reached $1 billion in valuation.
+- __valuation_billion:__ The company valuation in billions of dollars.
+- __funding:__ The total amount raised across all funding rounds in billions or millions of dollars.
+- __investors:__ The top investing firms or individual investors.
+
+The entire dataset has a total of 1074 rows.
 
 ## Source
