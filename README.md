@@ -42,3 +42,5 @@ The unicorn_companies table has 11 columns, namely:
 The entire dataset has a total of 1074 rows.
 
 ## Source
+
+Link to the full article: https://natan4tech.com/2022/12/08/data-cleaning-analysis-unicorn-companies/
